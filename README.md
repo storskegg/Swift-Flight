@@ -1,5 +1,14 @@
 # Swift Flight (Enchantment)
 
+## This is a fork.
+
+In this fork, I wanted to add the enchantment to the enchanting table, but with
+a very high price...over the vanilla maximum 15 enchanting power. The idea being
+that you don't have to go to the end to get the enchantment, but you will pay
+dearly for the levels and enchanting power necessary to obtain it.
+
+The README contents below this line are from the original repository.
+
 <div style="display: flex; gap: 20px;">
 <a href="https://ko-fi.com/H2H011LYHJ"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="ko-fi"/></a>
   
